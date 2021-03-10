@@ -14,7 +14,7 @@ This analytics project aims to answer the following questions drawing on insight
 
 **Outcomes**
 
-Outcomes can be found within Github and [here](https://cndukwe.blogspot.com/2021/03/analysis-of-stack-overflow-survey-2017.html)
+Outcomes can be found [here](https://github.com/ChidiOnum/Survey_Results/blob/main/Analysis%20of%20Stack%20Overflow%20Survey%202017.pdf) within [this repository]() and [here](https://cndukwe.blogspot.com/2021/03/analysis-of-stack-overflow-survey-2017.html)
 
 
 **Project Files**
